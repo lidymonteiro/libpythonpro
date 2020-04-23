@@ -5,6 +5,8 @@ Nesse curso é ensinado como contribuir com projetos de código aberto
 
 Link para o curso [Python Pro](https://python.pro.br/)
 
+[![Build Status](https://travis-ci.com/lidymonteiro/libpythonpro.svg?branch=master)](https://travis-ci.com/lidymonteiro/libpythonpro)
+
 Suporta a versão 3 de Python
 
 Para instalar em Unix: 
