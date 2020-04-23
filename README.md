@@ -6,6 +6,9 @@ Nesse curso é ensinado como contribuir com projetos de código aberto
 Link para o curso [Python Pro](https://python.pro.br/)
 
 [![Build Status](https://travis-ci.com/lidymonteiro/libpythonpro.svg?branch=master)](https://travis-ci.com/lidymonteiro/libpythonpro)
+[![Updates](https://pyup.io/repos/github/lidymonteiro/libpythonpro/shield.svg)](https://pyup.io/repos/github/lidymonteiro/libpythonpro/)
+[![Python 3](https://pyup.io/repos/github/lidymonteiro/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/lidymonteiro/libpythonpro/)
+
 
 Suporta a versão 3 de Python
 
