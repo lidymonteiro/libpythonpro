@@ -7,6 +7,13 @@ Link para o curso [Python Pro](https://python.pro.br/)
 
 Suporta a versão 3 de Python
 
+Para instalar em Unix: 
+``` console
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements-dev.txt
+```
+
 Tópicos a serem abordados: 
 1. Git
 2. Virtualenv
