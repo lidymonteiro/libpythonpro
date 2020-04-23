@@ -8,10 +8,15 @@ Link para o curso [Python Pro](https://python.pro.br/)
 Suporta a versão 3 de Python
 
 Para instalar em Unix: 
-``` console
+```console
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements-dev.txt
+```
+
+Para conferir qualidade de código: 
+```console
+flake8
 ```
 
 Tópicos a serem abordados: 
