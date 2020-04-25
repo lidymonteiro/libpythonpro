@@ -10,7 +10,7 @@ Link para o curso [Python Pro](https://python.pro.br/)
 [![Python 3](https://pyup.io/repos/github/lidymonteiro/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/lidymonteiro/libpythonpro/)
 
 
-Suporta a versão 3 de Python
+Suporta a versão 3 de Python!
 
 Para instalar em Unix: 
 ```console
