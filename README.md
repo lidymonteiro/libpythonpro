@@ -8,7 +8,7 @@ Link para o curso [Python Pro](https://python.pro.br/)
 [![Build Status](https://travis-ci.com/lidymonteiro/libpythonpro.svg?branch=master)](https://travis-ci.com/lidymonteiro/libpythonpro)
 [![Updates](https://pyup.io/repos/github/lidymonteiro/libpythonpro/shield.svg)](https://pyup.io/repos/github/lidymonteiro/libpythonpro/)
 [![Python 3](https://pyup.io/repos/github/lidymonteiro/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/lidymonteiro/libpythonpro/)
-
+[![codecov](https://codecov.io/gh/lidymonteiro/libpythonpro/branch/master/graph/badge.svg)](https://codecov.io/gh/lidymonteiro/libpythonpro)
 
 Suporta a versão 3 de Python!
 
