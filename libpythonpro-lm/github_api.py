@@ -15,4 +15,3 @@ def search_avatar(user):
 
 if __name__ == '__main__':
     print(search_avatar('lidymonteiro'))
-
