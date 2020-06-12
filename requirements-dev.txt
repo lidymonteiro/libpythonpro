@@ -16,7 +16,7 @@ pyparsing==2.4.7
 
 # Dependencies the coverage
 coverage==5.1
-pytest-cov==2.8.1
+pytest-cov==2.10.0
 
 
 -r requirements.txt
