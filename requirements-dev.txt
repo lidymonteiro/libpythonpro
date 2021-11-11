@@ -15,7 +15,7 @@ more-itertools==8.2.0
 pyparsing==2.4.7
 
 # Dependencies the coverage
-coverage==5.1
+coverage==6.1.2
 pytest-cov==2.8.1
 
 
