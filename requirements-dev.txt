@@ -12,7 +12,7 @@ py==1.8.1
 wcwidth==0.1.9
 packaging==20.3
 more-itertools==8.2.0
-pyparsing==2.4.7
+pyparsing==3.0.8
 
 # Dependencies the coverage
 coverage==5.1
